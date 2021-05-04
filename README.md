@@ -20,8 +20,8 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Mock-Up
 
-The following is a link to the functionality of the API, walking through GET, POST, PUT, and DELETE routes on Insomnia Core.
-https://drive.google.com/file/d/1rqhTjgoB3OvcV9ae34G3sPwru4mqZXVO/view
+The following is a link to a video walkthrough of how to create the database in MySQL, how to seed the database, how to run the server, and a demonstration of the functionality of the API, walking through GET, POST, PUT, and DELETE routes on Insomnia Core.
+https://drive.google.com/file/d/1ig1EeDsUnDFT1jhalkDlY1TFRZ9O7Hrf/view
 
 
 
