@@ -20,4 +20,8 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Mock-Up
 
+The following is a link to the functionality of the API, walking through GET, POST, PUT, and DELETE routes on Insomnia Core.
 https://drive.google.com/file/d/1rqhTjgoB3OvcV9ae34G3sPwru4mqZXVO/view
+
+
+
